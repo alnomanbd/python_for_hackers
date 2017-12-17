@@ -1,4 +1,4 @@
-"""Python template of a Comprehensive Header"""
+"""Python Template of a Comprehensive Header"""
 
 #!/usr/bin/env python
 """ Short description of this Python module.
@@ -14,11 +14,11 @@ You should have received a copy of the GNU General Public License along with
 this program. If not, see <http://www.gnu.org/licenses/>.
 """
 
-__author__ = "One solo developer"
-__authors__ = ["One developer", "And another one", "etc"]
+__author__ = "Al Noman"
+__authors__ = ["First Developer", "Second Developer", "etc"]
 __contact__ = "mail@example.com"
 __copyright__ = "Copyright $YEAR, $COMPANY_NAME"
-__credits__ = ["One developer", "And another one", "etc"]
+__credits__ = ["First Developer", "Second Developer", "etc"]
 __date__ = "YYYY/MM/DD"
 __deprecated__ = False
 __email__ =  "mail@example.com"
